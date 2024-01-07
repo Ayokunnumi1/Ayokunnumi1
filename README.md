@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayokunnumia" target="blank"><img src="https://img.shields.io/twitter/follow/ayokunnumia?logo=twitter&style=for-the-badge" alt="ayokunnumia" /></a> </p>
 
-- 🌱 I’m currently learning **software development in Microverse.**
+- 🌱 I’m currently **working on a full stack project**
 
 - 👨‍💻 All of my projects are available at [https://ayokunnumi1.github.io/Portfolio/](https://ayokunnumi1.github.io/Portfolio/)
 
@@ -21,8 +21,8 @@
 
 ### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
