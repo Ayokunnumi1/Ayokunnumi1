@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayokunnumia" target="blank"><img src="https://img.shields.io/twitter/follow/ayokunnumia?logo=twitter&style=for-the-badge" alt="ayokunnumia" /></a> </p>
 
-- 🌱 I’m currently **working on a dating website for people in tech**
+- 🌱 I’m currently **working on a full stack project**
 
 - 👨‍💻 All of my projects are available at [https://ayokunnumi1.github.io/Portfolio/](https://ayokunnumi1.github.io/Portfolio/)
 
