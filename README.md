@@ -1,11 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Ayokunnumi</h1>
 
 <h3 align="center">A passionate Full Stack developer</h3>
-<img width="400" align="right"src="https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e475jc9d7ir1ja1inowg6c63f5pjamfwf7ola2l25va&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<img width="300" align="right"src="https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e475jc9d7ir1ja1inowg6c63f5pjamfwf7ola2l25va&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayokunnumi1&label=Profile%20views&color=0e75b6&style=flat" alt="ayokunnumi1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ayokunnumia" target="blank"><img src="https://img.shields.io/twitter/follow/ayokunnumia?logo=twitter&style=for-the-badge" alt="ayokunnumia" /></a> </p>
 
 - 🌱 I’m currently **working on a full stack project**
 
@@ -13,12 +11,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@omololuayk](https://medium.com/@omololuayk)
 
-- 💬 Ask me about **JavaScript, React, Ruby, Redux**
+- 💬 Ask me about **JavaScript, React, Redux, Rails**
 
 - 📫 How to reach me **omololuayk@gmail.com**
-
-- ⚡ Fun fact **I love to share my tech experiences.**
-
 
 <h3 align="left">Achievement:</h3>
 <img width="400" src="images/certificate.png">
