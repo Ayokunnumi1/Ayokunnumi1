@@ -16,7 +16,7 @@
 - 📫 How to reach me **omololuayk@gmail.com**
 
 <h3 align="left">Achievement:</h3>
-<img width="400" src="images/certificate.png">
+<img width="450" src="images/certificate.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
