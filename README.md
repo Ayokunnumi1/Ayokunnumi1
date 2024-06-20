@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **working on a full stack project**
 
-- 👨‍💻 All of my projects are available at [https://ayokunnumi1.github.io/Portfolio/](https://ayokunnumi-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ayokunnumi-portfolio.vercel.app/](https://ayokunnumi-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@omololuayk](https://medium.com/@omololuayk)
 
