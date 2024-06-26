@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayokunnumi1&label=Profile%20views&color=0e75b6&style=flat" alt="ayokunnumi1" /> </p>
 
-- 🌱 I’m currently **working on a full stack project**
+- 🌱 I am currently **working on a full stack project**
 
 - 👨‍💻 All of my projects are available at [https://ayokunnumi-portfolio.vercel.app/](https://ayokunnumi-portfolio.vercel.app/)
 
